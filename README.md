@@ -1,5 +1,6 @@
 ## 🏨 Hotel Booking Application
 Welcome to the Hotel Booking Application! This project is a comprehensive web application designed to facilitate seamless reservation management for hotels. It leverages modern web technologies to provide a robust and user-friendly experience.
+
 Deployed Site(Might be down since it is running on the trail MongoDB Atlas version):
 https://airbnbmock-project.onrender.com/listings
 
